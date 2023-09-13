@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Hyeonrak Choi here.
 2nd grades, 20 yo, man.<br>
-A student in SEOULTECH, Dept of Computer Science and Engineering.<br>
-You can contact me through <goes00@naver.com><br>
+A student in [SEOULTECH, Dept of Computer Science and Engineering] (https://computer.seoultech.ac.kr/).<br>
+You can contact me through goes00@naver.com<br>
 <!--
 **goes00/goes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
